@@ -4,7 +4,7 @@ GODTANU project implements a community driven ecosystem.
 
 # How it works
 
-GODTANU NETWORK TOKEN used that as a vote, saisen, donate, katusage, maybe many thins. and that carve out a next generation economy.
+GODTANU NETWORK TOKEN used that as a vote, saisen, donate, katusage, maybe many use case. and that will carve out a next generation economy.
 
 The simbol is **GNU** not a gnu UNIX caution that cofuse it, It like a SHIT. 
 
