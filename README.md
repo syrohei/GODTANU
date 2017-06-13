@@ -12,13 +12,19 @@ GNU made by smart contract based on a ERC-20 Token Standard for ICO on the ether
 
 Hyper scaleable and low cost if you send and withdraw some token.
 
-# Proof of Katikatiyama 
+# Proof of KachiKachiYama 
 
 Based on Proof of Stake but if you have a token, you have to burn GNU every 420 block on the cicle of ethereum blockchain.
 
+it mean that you have to do which one things every 420 block on the etheruem.
+
+- Token burn  ( sending to burn address )
+- Vote  ( community Vote campaigns )
+- Mitsugi ( donate and katsuage to GODTANU )
+
 So. You will lost your token unless You burn a token or vote tanu or mitsugi to him.
 
-that mean. proof of Katikatiyama. proof implemnt this mathematical things.  
+that mean. proof of KachiKachiYama. proof implemnt this mathematical things.  
 
 your vested new Balance  =  oldBalance - ( oldBalance / totalsupply of GNU * oldBalance)
                         or
