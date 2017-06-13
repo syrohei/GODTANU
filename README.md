@@ -6,7 +6,7 @@ GODTANU project implements a community driven ecosystem.
 
 GODTANU NETWORK TOKEN used that as a vote, saisen, donate, katusage, maybe many thins. and that carve out a next generation economy.
 
-The simbol is *GNU* not a gnu UNIX caution that cofuse it, It like a SHIT. 
+The simbol is **GNU** not a gnu UNIX caution that cofuse it, It like a SHIT. 
 
 GNU made by smart contract based on a ERC-20 Token Standard for ICO on the ethereum blockchain.
 
