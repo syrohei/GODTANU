@@ -8,7 +8,7 @@ GODTANU NETWORK TOKEN used that as a vote, saisen, donate, katsuage, maybe many 
 
 The simbol is **GNT** not a Golem project caution that cofuse it, It's a SHIT. 
 
-GNU made by smart contract based on a ERC-20 Token Standard for ICO on the ethereum blockchain.
+GNT made by smart contract based on a ERC-20 Token Standard for ICO on the ethereum blockchain.
 
 Hyper scaleable and low cost if you send and withdraw some token.
 
